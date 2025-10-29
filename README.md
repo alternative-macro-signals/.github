@@ -1,4 +1,6 @@
-#  📊 Alternative Macro Signals
+<h1>
+    Alternative Macro Signals <img src="./logo_icon_small_tw.jpg" alt="Alternative Macro Signals Logo" width="80"  align="right">
+</h1>
 
 We provide innovative macroeconomic data, leveraging a unique blend of LLMs and Macroeconomics expertise.
 
